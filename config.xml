@@ -6,15 +6,11 @@
         id        = "com.braincomic.bandtuner"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>Tune My Band</name>
 
     <description>
         Hello World sample application that responds to the deviceready event.
     </description>
-
-    <author href="http://braincomic.com" email="bram.minnaert@gmail.com">
-        Bram Minnaert
-    </author>
 
     <!--
         If you do not want any permissions to be added to your app, add the
